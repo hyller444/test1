@@ -1,0 +1,46 @@
+.conteneur{
+    display: flex;
+    margin: 0% auto;
+}
+.élement1{
+    margin: 0% auto;
+    background-color: #92D1FA;
+    width: 30%;
+    height: 400px;
+    border: 1px solid  #92D1FA;
+    border-radius: 10px;
+    box-shadow: 2px 4px #C3E4F9 ;
+    padding:5% 5% 5% 5%;
+}
+.élement1 h1{
+    font-size:30px ;
+    font-family: fantasy;
+    border-bottom: 3px solid white;
+    border-radius: 10%;
+    width: 20%;
+    margin: 5% auto ;
+}
+.élement1 input{
+    width: 98%;
+    height: 30px;
+    text-align:left;
+    font-family: serif;
+}
+.Signup{
+    margin-bottom: 30px;
+    color: gray;
+    margin-left: 170px;
+}
+.élement2{
+    background-image:url(../calcul/WhatsApp\ Image\ 2023-11-03\ à\ 18.29.54_e59b944e.jpg); 
+    margin-right: 20%;
+    border: 1px solid  #92D1FA;
+    border-radius: 10px;
+    box-shadow: 2px 4px #C3E4F9 ;
+}
+.élement2 h1{
+    text-align: center;
+    margin-top: 50%;
+    color:#C3E4F9 ;
+    
+}
